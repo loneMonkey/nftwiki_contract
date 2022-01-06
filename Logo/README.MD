@@ -1,1 +1,2 @@
-## This Token logo
+### Token logo
+### Token info
